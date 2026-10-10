@@ -24,7 +24,7 @@
       <td>
         <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; width: 280px; text-align: left;">
           <h3>👤 Identity</h3>
-          <p><strong>Name:</strong> Rasool Bux Soomro</p>
+          <p><strong>Name:</strong> Rasool Bux </p>
           <p><strong>Title:</strong> Software Engineering Scholar</p>
           <p><strong>Role:</strong> Mobile Application Developer</p>
           <p><strong>Location:</strong> Hyderabad</p>
